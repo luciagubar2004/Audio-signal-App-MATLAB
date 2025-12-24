@@ -46,5 +46,6 @@ The app provides three synchronized visualization domains for both input and out
 4.  Open `app1.mlapp` (or the project file name) in App Designer.
 5.  Click **Run**.
 
-**Author:** Lucía Gutiérrez Bartolomé
+**Authors:** Lucía Gutiérrez Bartolomé and Eva Llorente Rodríguez
 **Contact:** www.linkedin.com/in/lucia-gutierrez-bartolome-teleco
+*Developed as part of the Telecommunication Technologies Engineering degree at the **University of Valladolid**.*
